@@ -1,6 +1,6 @@
 # grants-platform-metrics
 
-Core delivery platform Node.js Backend Template.
+Service not currently for deployment, but is a placeholder for platform level dashboards in the portal.
 
 - [Requirements](#requirements)
   - [Node.js](#nodejs)
