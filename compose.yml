@@ -23,7 +23,7 @@ services:
 
   ################################################################################
 
-  cdp-node-backend-no-db-template:
+  grants-platform-metrics:
     build:
       context: .
       target: development
